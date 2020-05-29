@@ -4,3 +4,6 @@ Implementing Naive Bayes based Text Classification with and without using sklear
 In this, we try to accomplish the following tasks:
 -Perform Test Classification using Multinomial Naive Bayes (using sklearn's inbuilt function).
 -Build a text classification system by writing a Naive Bayes function from scratch, ie without using sklearn.
+
+The dataset we use is the 'Twenty Newsgroups' dataset from the following URL:
+http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
